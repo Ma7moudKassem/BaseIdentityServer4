@@ -1,7 +1,7 @@
 ﻿
 using Microsoft.AspNetCore.Authorization;
 
-namespace KassemIdentityServer4.Api.Controllers;
+namespace BaseIdentityServer4.Api.Controllers;
 
 [Authorize]
 [Route("api/[controller]")]

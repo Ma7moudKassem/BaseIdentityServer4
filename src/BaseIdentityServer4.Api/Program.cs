@@ -1,4 +1,4 @@
-using KassemIdentityServer4.Api.Constant;
+using BaseIdentityServer4.Api.Constant;
 using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -3,10 +3,10 @@
 
 
 using IdentityServer4.Models;
-using KassemIdentityServer4.Constants;
+using BaseIdentityServer4.Constants;
 using System.Collections.Generic;
 
-namespace KassemIdentityServer4
+namespace BaseIdentityServer4
 {
     public static class Config
     {

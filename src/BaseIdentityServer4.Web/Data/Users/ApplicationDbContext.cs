@@ -1,8 +1,8 @@
-﻿using KassemIdentityServer4.Web.Models;
+﻿using BaseIdentityServer4.Web.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace KassemIdentityServer4.Web.Data
+namespace BaseIdentityServer4.Web.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

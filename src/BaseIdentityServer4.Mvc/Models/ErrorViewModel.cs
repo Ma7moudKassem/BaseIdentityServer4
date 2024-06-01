@@ -1,4 +1,4 @@
-namespace KassemIdentityServer4.Mvc.Models;
+namespace BaseIdentityServer4.Mvc.Models;
 
 public class ErrorViewModel
 {

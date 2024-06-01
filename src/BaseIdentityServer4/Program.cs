@@ -9,7 +9,7 @@ using Serilog.Events;
 using Serilog.Sinks.SystemConsole.Themes;
 using System;
 
-namespace KassemIdentityServer4
+namespace BaseIdentityServer4
 {
     public class Program
     {

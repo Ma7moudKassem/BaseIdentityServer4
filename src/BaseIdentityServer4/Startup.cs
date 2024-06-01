@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace KassemIdentityServer4
+namespace BaseIdentityServer4
 {
     public class Startup
     {

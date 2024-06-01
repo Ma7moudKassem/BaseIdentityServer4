@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using KassemIdentityServer4.Mvc.Models;
+using BaseIdentityServer4.Mvc.Models;
 
-namespace KassemIdentityServer4.Mvc.Controllers;
+namespace BaseIdentityServer4.Mvc.Controllers;
 
 public class HomeController : Controller
 {

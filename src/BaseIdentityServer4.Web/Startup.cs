@@ -6,8 +6,8 @@ using IdentityExpress.Identity;
 using IdentityExpress.Manager.Api;
 using IdentityServer4;
 using IdentityServer4.Configuration;
-using KassemIdentityServer4.Web.Data;
-using KassemIdentityServer4.Web.Models;
+using BaseIdentityServer4.Web.Data;
+using BaseIdentityServer4.Web.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -17,7 +17,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Reflection;
 
-namespace KassemIdentityServer4.Web
+namespace BaseIdentityServer4.Web
 {
     public class Startup
     {

@@ -1,4 +1,4 @@
-﻿namespace KassemIdentityServer4.Constants
+﻿namespace BaseIdentityServer4.Constants
 {
     public class CONSTANT_CLIENT_IDS
     {
